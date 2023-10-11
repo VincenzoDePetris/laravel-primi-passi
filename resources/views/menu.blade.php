@@ -7,10 +7,9 @@
 </head>
 <body>
   <ul>
-    <li>Lorem, ipsum dolor.</li>
-    <li>Lorem, ipsum dolor.</li>
-    <li>Lorem, ipsum dolor.</li>
-    <li>Lorem, ipsum dolor.</li>
+    <li><a href="/homepage">homepage</a></li>
+    <li><a href="/info_page">info page</a></li>
+    <li><a href="/casual">casual</a></li>
   </ul>
 </body>
 </html>
